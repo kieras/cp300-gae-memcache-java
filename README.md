@@ -1,4 +1,4 @@
-appengine-skeleton
+cp300-gae-memcache-java
 =============================
 
-This is a generated application from the appengine-skeleton archetype.
+Simple lab of memcache in RSSFeedServlet.
